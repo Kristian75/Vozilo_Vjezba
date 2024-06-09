@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\bin\Debug\Vozilo_Vjezba.exe.config
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\bin\Debug\Vozilo_Vjezba.exe
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\bin\Debug\Vozilo_Vjezba.pdb
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\obj\Debug\Vozilo_Vjezba.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\obj\Debug\Vozilo_Vjezba.Form1.resources
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\obj\Debug\Vozilo_Vjezba.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\obj\Debug\Vozilo_Vjezba.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\obj\Debug\Vozilo_Vjezba.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\obj\Debug\Vozilo_Vjezba.exe
+C:\Users\Korisnik\source\repos\Vozilo_Vjezba\Vozilo_Vjezba\obj\Debug\Vozilo_Vjezba.pdb
